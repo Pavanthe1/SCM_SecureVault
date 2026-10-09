@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+securevault.db
+encrypted_files/
+decrypted_files/
+*.pem
+*.key
