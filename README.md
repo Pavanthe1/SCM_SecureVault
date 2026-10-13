@@ -1,4 +1,4 @@
-# SecureVault — ISWE305P Software Testing Project
+# SecureVault
 
 A Flask-based cybersecurity teaching application with user accounts, AES-256-GCM, an ECC/ECDH-based authenticated-encryption workflow, a hybrid AES–ECC workflow, server-side encrypted-file storage, recovery, activity history, and automated tests.
 
